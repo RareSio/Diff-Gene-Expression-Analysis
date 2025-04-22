@@ -58,6 +58,6 @@ The main objective of this practical case is to analyze microarray data to ident
 
 ---
 
-**Author:** Andrea Santisteban Veiga  
+**Author:** Babih Velázquez De Burnay 
 **Course:** Advanced Statistics (Master’s level)  
 **Date:** April 2023
